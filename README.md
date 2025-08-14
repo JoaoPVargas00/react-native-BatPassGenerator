@@ -15,4 +15,4 @@ Projeto desenvolvido com foco em *aprendizado, **boas práticas* e *experiência
 
 ## ⚙ Como executar
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/JoaoPVargas00/react-native-BatPassGenerator.git
